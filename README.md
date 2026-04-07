@@ -13,3 +13,5 @@ qr-project/ <br>
 │── projectqr.py  <br>
 │── README.md <br>
 │── output (qrcode.png)/ (generated QR codes) <br>
+
+Above there is a png file named as qrcode which is just an example of any URL or any other things if you give as input then it will generate a png image type.
