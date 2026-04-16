@@ -1,6 +1,6 @@
 📱 QR Code Generator Project
 ---------------------------------------
-📌 Overview
+__📌 Overview__
 
 This is a simple QR Code Generator project that allows users to create QR codes from text or URLs. It is beginner-friendly and demonstrates basic concepts of generating and displaying QR codes using programming.<br>
 🚀 Features
